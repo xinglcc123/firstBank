@@ -1,8 +1,0 @@
-09:33:25
-簽名前：&10&5E8B6E1998F421204C6576544FE1A26B44FC775982D8CE2E&007807401279001&90010001&20201231093325
-送出：{"merID":"80740127","MerchantID":"007807401279001","TerminalID":"90010001","MerchantName":"biofast","lidm":"","purchAmt":"10","AuthResURL":"https:\/\/www.abeito.com\/onlinepayment\/paymentResult.php","LocalDate":"20201231","LocalTime":"093325","enCodeType":"UTF-8","timeoutDate":"20201231","timeoutTime":"143325","timeoutSecs":600,"walletVerifyCode":"9456","reqToken":"572796edcd7271dfee693a8e66925bc625196cf3e7f95833ffbecbdeedc5dda5"}
-
-09:33:46
-簽名前：&10&5E8B6E1998F421204C6576544FE1A26B44FC775982D8CE2E&007807401279001&90010001&20201231093346
-送出：{"merID":"80740127","MerchantID":"007807401279001","TerminalID":"90010001","MerchantName":"biofast","lidm":"","purchAmt":"10","AuthResURL":"https:\/\/www.abeito.com\/onlinepayment\/paymentResult.php","LocalDate":"20201231","LocalTime":"093346","enCodeType":"UTF-8","timeoutDate":"20201231","timeoutTime":"143346","timeoutSecs":600,"walletVerifyCode":"2555","reqToken":"a9d849807361420d2173541332ca4c8fef799f4903e4180ecc0a949d55476d4c"}
-
