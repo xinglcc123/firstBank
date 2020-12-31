@@ -6,7 +6,7 @@ class CreditCardApi
 	{
 		$this->appkey = '5E8B6E1998F421204C6576544FE1A26B44FC775982D8CE2E';	//密鑰
 		$this->online = 'https://www.focas.fisc.com.tw/FOCAS_WEBPOS/online/';	//信用卡網路收單網址
-		$this->notifyUrl = 'https://www.abeito.com/onlinepayment/paymentResult.php';	//回調
+		$this->notifyUrl = 'https://www.abeito.com/onlinepayment/paymentResult.php';	//回調test
 	}
 
 	public function createOrder($merID, $MerchantID, $TerminalID, $MerchantName, $lidm, $purchAmt) { 
