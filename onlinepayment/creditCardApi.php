@@ -4,7 +4,7 @@ class CreditCardApi
 {
 	public function __Construct($provider = 'creditCard')
 	{
-		$this->appkey = '5E8B6E1998F421204C6576544FE1A26B44FC775982D8CE2E';	//密鑰
+		$this->appkey = '';	//密鑰
 		$this->online = 'https://www.focas.fisc.com.tw/FOCAS_WEBPOS/online/';	//信用卡網路收單網址
 		$this->notifyUrl = 'https://www.abeito.com/onlinepayment/paymentResult05.php';	//回調
 	}

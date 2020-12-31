@@ -16,7 +16,7 @@ parse_str($str, $array);
 // 加密方法 公式：SHA-256(授權結果狀態&錯誤碼&訂單編號&驗證參數&交易回應時間&特店代號&端末代號)
 $MerchantID = '007807401279001';
 $TerminalID = '90010001';
-$appkey = '5E8B6E1998F421204C6576544FE1A26B44FC775982D8CE2E';
+$appkey = '';
 $xid = $array['xid'];	//信用卡交易序號
 $seccode = $array['lidm'];	//訂單號
 $error_desc = $array['errDesc'];	//失敗訊息
